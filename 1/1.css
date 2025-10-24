@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top{
+    width: 35vw;
+    height: 50vh;
+    background: aquamarine;
+}
+.bottom{
+    width: 35vw;
+    height: 50vh;
+    background: bisque;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+aside{
+    width: 30vw;
+    height: 100vh;
+    background: #a0bbfd;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
+.over{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+}
+.bottom-1{
+    width: 70vw;
+    height: 50vh;
+    background: #87ff8f;
+}
